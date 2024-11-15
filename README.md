@@ -47,4 +47,4 @@ This project is a food delivery application developed using **React Native** and
 
 This app enhances the food ordering experience by providing a user-friendly, interactive, and visually rich platform. It also serves as a valuable tool for restaurants to engage with customers in a more dynamic way.
 
-! [] 
+![](https://github.com/Rasime-Dumlupunar/food-delivery-native/blob/main/food-deliverry.gif)
